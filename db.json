@@ -27,5 +27,22 @@
         "Eric Evans"
       ]
     }
+  ],
+  "editoras": [
+    {
+      "codEditora": 1,
+      "nome": "Prentice Hall PTR",
+      "autor": "Robert C. Martin"
+    },
+    {
+      "codEditora": 2,
+      "nome": "Addison-Wesley Professional",
+      "autor": "Marting Fowler"
+    },
+    {
+      "codEditora": 3,
+      "nome": "Alta Books",
+      "autor": "Eric Evans"
+    }
   ]
 }
